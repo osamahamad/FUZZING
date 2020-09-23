@@ -1,0 +1,9 @@
+https://cybersecurity.wtf?target_domain
+https://cybersecurity.wtf;target_domain
+https://cybersecurity.wtf/target_domain/
+https://target_domain.cybersecurity.wtf
+https://cybersecurity.wtftarget_domain
+https://target_domain@cybersecurity.wtf
+https://cybersecurity.wtf#target_domain
+https://cybersecurity.wtf\.target_domain
+https://cybersecurity.wtf/.target_domain
