@@ -42,3 +42,8 @@ http://redirecttest.localtest.me
 http://sub1.sub2.sub3.localtest.me
 http://bugbounty.dod.network
 http://spoofed.burpcollaborator.net
+0x7f.0x0.0x0.0x1
+0177.0.0.01
+http://0x7f.0x0.0x0.0x1
+http://0177.0.0.01
+
