@@ -153,6 +153,7 @@ order by
 password:*/=1--
 PRINT
 PRINT @@variable
+%252522%252529%252520or%252520sleep%25252810.1%252529%252523
 procedure
 replace
 select
